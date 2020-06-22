@@ -14,7 +14,7 @@ After initializing a fresh instance of Laravel (and making all the necessary con
 4. Run `php artisan ui larasnap-auth-ui` command to install the auth UI. This will install all the necessary assets and also the custom auth views.
 5. In your terminal run `composer dump-autoload`.
 
-To preset the admin dashboard, use ** larasnap/laravel-admin ** composer package. Admin Dashboard Documentation https://karthicksivakumar191194.github.io/larasnap/
+To preset the admin dashboard, use `larasnap/laravel-admin` composer package. Admin Dashboard Documentation https://karthicksivakumar191194.github.io/larasnap/
 
 ## Screen shots    
 
