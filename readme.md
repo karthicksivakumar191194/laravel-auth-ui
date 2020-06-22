@@ -18,4 +18,4 @@ To preset the admin dashboard, use `larasnap/laravel-admin` composer package. Ad
 
 ## Screen shots    
 
-![LaraSnap Login](/screens/login.png)
+![LaraSnap Login](https://karthicksivakumar191194.github.io/larasnap/assets/images/larasnap-auth-ui.png)
