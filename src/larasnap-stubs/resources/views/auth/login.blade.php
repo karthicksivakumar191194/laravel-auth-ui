@@ -6,6 +6,11 @@
    </div>
    <form class="login100-form validate-form login-form" method="POST" action="{{ route('login') }}">
       @csrf
+      @if (session('error'))
+        <div class="alert alert-danger" role="alert">
+            {{ session('error') }}
+        </div>
+      @endif
       <span class="login100-form-title">
       {{ __('Login') }}
       </span>
